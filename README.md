@@ -23,6 +23,7 @@ Meu nome é Marcos. Sou desenvolvedor Full-Stack, Bacharel em Ciência da Comput
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
