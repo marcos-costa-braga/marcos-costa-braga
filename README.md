@@ -26,4 +26,5 @@ Meu nome é Marcos. Sou desenvolvedor Full-Stack, Bacharel em Ciência da Comput
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=WordPress&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
