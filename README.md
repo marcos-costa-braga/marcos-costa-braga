@@ -2,8 +2,13 @@
 
 Meu nome é Marcos. Sou desenvolvedor Full-Stack, Bacharel em Ciência da Computação e Técnico em Informática.
 
-[![Linkedin: marcos-costa-braga](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-costa-braga)](https://www.linkedin.com/in/marcos-costa-braga)
-[![Instagram: marcos_costa_braga](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/marcos_costa_braga)](https://www.instagram.com/marcos_costa_braga)
+<p align="left">
+<a href="https://linkedin.com/in/marcos-costa-braga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn: marcos-costa-braga" height="30" width="40" /></a>
+<a href="https://instagram.com/marcos_costa_braga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram: marcos_costa_braga" height="30" width="40" /></a>
+<a href="https://www.github.com/marcos-costa-braga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub: marcos-costa-braga" height="30" width="40" /></a>
+<a href="https://www.freecodecamp.org/marcos-costa-braga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg" alt="freecodecamp: marcos-costa-braga" height="30" width="40" /></a>
+</p>
+
 [![GitHub: marcos-costa-braga](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://www.github.com/marcos-costa-braga)](https://www.github.com/marcos-costa-braga)
 [![freeCodeCamp: marcos-costa-braga](https://img.shields.io/badge/-freeCodeCamp-0A0A23?style=flat-square&logo=freeCodeCamp&link=https://www.freecodecamp.org/marcos-costa-braga)](https://www.freecodecamp.org/marcos-costa-braga)
 
