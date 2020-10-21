@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏽
 
 Meu nome é Marcos. Sou desenvolvedor Full-Stack, Bacharel em Ciência da Computação e Técnico em Informática.
 
