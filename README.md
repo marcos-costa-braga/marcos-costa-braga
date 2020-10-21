@@ -9,9 +9,6 @@ Meu nome é Marcos. Sou desenvolvedor Full-Stack, Bacharel em Ciência da Comput
 <a href="https://www.freecodecamp.org/marcos-costa-braga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg" alt="freecodecamp: marcos-costa-braga" height="30" width="40" /></a>
 </p>
 
-[![GitHub: marcos-costa-braga](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://www.github.com/marcos-costa-braga)](https://www.github.com/marcos-costa-braga)
-[![freeCodeCamp: marcos-costa-braga](https://img.shields.io/badge/-freeCodeCamp-0A0A23?style=flat-square&logo=freeCodeCamp&link=https://www.freecodecamp.org/marcos-costa-braga)](https://www.freecodecamp.org/marcos-costa-braga)
-
 ## ⚡ Skills
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
