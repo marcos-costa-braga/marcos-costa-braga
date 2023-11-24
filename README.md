@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-Meu nome é Marcos. Sou Desenvolvedor Web Jr, Bacharel em Ciência da Computação e Técnico em Informática.
+Meu nome é Marcos. Sou Desenvolvedor Web a 7 anos, Bacharel em Ciência da Computação e Técnico em Informática.
 
 <p align="left">
 <a href="https://linkedin.com/in/marcos-costa-braga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn: marcos-costa-braga" height="30" width="40" /></a>
